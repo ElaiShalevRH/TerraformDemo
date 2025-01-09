@@ -1,5 +1,0 @@
-name: Create zip of terraform configuration
-on: push
-
-env: 
-  
