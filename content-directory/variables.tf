@@ -1,5 +1,5 @@
 # Variable declarations
-variable "version" {
+variable "OCPversion" {
   type = string
 }
 
