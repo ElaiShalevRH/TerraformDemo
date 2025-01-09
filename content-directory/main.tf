@@ -8,5 +8,7 @@ resource "aws_instance" "app_server" {
 
   tags = {
     Name = "ExampleAppServerInstance"
+    version = var.version
+    color = var.color
   }
 }
