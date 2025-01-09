@@ -1,2 +1,2 @@
-version="1.3"
+OCPversion="1.3"
 color="green"
